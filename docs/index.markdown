@@ -13,10 +13,12 @@ Hi! I am a Ph.D. student in [HIS Lab](https://his-lab.org) at [POSTECH](https://
 - [ArithMotion: Peer-Relative Motion Generation for Social VR via Arithmetic Metaphor](https://doi.org/10.1145/3756884.3766039)
    - **Jaewoong Jang**, Sungjae Cho, Yeseul Shin, Inseok Hwang
    - [ACM VRST 2025](https://vrst.acm.org/vrst2025/), Montreal, QC, Canada
+   - [Video](https://www.youtube.com/watch?v=x6w9DkZUo8U&feature=youtu.be) 
 
 - [AI-to-Human Actuation: Boosting Unmodified AI's Robustness by Proactively Inducing Favorable Human Sensing Conditions](https://dl.acm.org/doi/abs/10.1145/3580812)
    - Sungjae Cho, Yoonsu Kim, **Jaewoong Jang**, Inseok Hwang
    - [PACM IMWUT](https://dl.acm.org/journal/imwut), volume 7, issue 3, pp. 105:1-32 (September 2023).
+   - [Video](https://www.youtube.com/watch?v=yUSUkovPLjg&feature=youtu.be)
 
 ## Demos / Posters
 - [Demonstrating AHA: Boosting Unmodified AI's Robustness by Proactively Inducing Favorable Human Sensing Conditions](https://dl.acm.org/doi/abs/10.1145/3594739.3610718)
