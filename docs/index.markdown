@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am a Ph.D. student in [HIS Lab](https://his-lab.org) at [POSTECH](https://postech.ac.kr), advised by Prof. [Inseok Hwang](https://www.inseokhwang.com/). My research focuses on designing AI and interactive systems that support human communication.
 
-## Papers
+## Regular publications
 
 - [ArithMotion: Peer-Relative Motion Generation for Social VR via Arithmetic Metaphor](https://doi.org/10.1145/3756884.3766039)
    - **Jaewoong Jang**, Sungjae Cho, Yeseul Shin, Inseok Hwang
@@ -21,7 +21,16 @@ Hi! I am a Ph.D. student in [HIS Lab](https://his-lab.org) at [POSTECH](https://
    - [PACM IMWUT](https://dl.acm.org/journal/imwut), volume 7, issue 3, pp. 105:1-32 (September 2023).
    - [video](https://www.youtube.com/watch?v=yUSUkovPLjg&feature=youtu.be)
 
-## Demos / Posters
+## Adjunct Publications
+
+- [Step into My Agent’s Shoes: Augmenting Processual Experiences via Interactive Narrative Game Generation]()
+   - Hyojin Ju*, **Jaewoong Jang***, Inseok Hwang
+   - [ACM UIST 2026](https://uist.acm.org/2026) (Demo), Detroit, MI, USA
+
+- [Noisync: Noise-aware Schedule Coordination for Multi-Family Housing]()
+   - Donghyeon Kang, **Jaewoong Jang**, Inseok Hwang
+   - [WellComp 2026](https://wellcomp2026.github.io), Shanghai, China
+
 - [Demonstrating AHA: Boosting Unmodified AI's Robustness by Proactively Inducing Favorable Human Sensing Conditions](https://dl.acm.org/doi/abs/10.1145/3594739.3610718)
     - Sungjae Cho, **Jaewoong Jang**, Yoonsu Kim, Inseok Hwang
     - [ACM UbiComp 2023](https://www.ubicomp.org/ubicomp-iswc-2023/), Cancun, Mexico.
@@ -29,6 +38,13 @@ Hi! I am a Ph.D. student in [HIS Lab](https://his-lab.org) at [POSTECH](https://
 ## Grants
 - a Ph.D. fellowship from NRF (National Research Foundation) of Korea (Sep 2024 - Aug 2026)
   - Title: Communication Augmentation System Based on User Inputs for Reducing the Gap of Non-verbal Communication in Mixed Reality
+
+## Academic Services
+- Reviewer
+   - CHI '26
+   - VRST '25
+   - IMWUT '24
+
 
 ## Education
 - **Ph.D. Student**, POSTECH, Computer Science and Engineering (Sep 2022 - Current)
