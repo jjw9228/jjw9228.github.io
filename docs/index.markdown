@@ -24,7 +24,7 @@ Hi! I am a Ph.D. student in [HIS Lab](https://his-lab.org) at [POSTECH](https://
 ## Adjunct Publications
 
 - [Step into My Agent’s Shoes: Augmenting Processual Experiences via Interactive Narrative Game Generation]()
-   - Hyojin Ju*, **Jaewoong Jang***, Inseok Hwang
+   - Hyojin Ju\*, **Jaewoong Jang**\*, Inseok Hwang
    - [ACM UIST 2026](https://uist.acm.org/2026) (Demo), Detroit, MI, USA
 
 - [Noisync: Noise-aware Schedule Coordination for Multi-Family Housing]()
