@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am a Ph.D. student in [HIS Lab](https://his-lab.org) at [POSTECH](https://postech.ac.kr), advised by Prof. [Inseok Hwang](https://www.inseokhwang.com/). My research focuses on designing AI and interactive systems that support human communication.
 
-## Regular publications
+## Regular Publications
 
 - [ArithMotion: Peer-Relative Motion Generation for Social VR via Arithmetic Metaphor](https://doi.org/10.1145/3756884.3766039)
    - **Jaewoong Jang**, Sungjae Cho, Yeseul Shin, Inseok Hwang
